@@ -1,10 +1,10 @@
 
-http://sisioh.github.io/archive.html
-http://sisioh.github.io/atom.xml
-http://sisioh.github.io/categories.html
-http://sisioh.github.io/index.html
-http://sisioh.github.io/new-page.html
-http://sisioh.github.io/pages.html
-http://sisioh.github.io/rss.xml
-http://sisioh.github.io/sitemap.txt
-http://sisioh.github.io/tags.html
+http://sisioh.org/archive.html
+http://sisioh.org/atom.xml
+http://sisioh.org/categories.html
+http://sisioh.org/index.html
+http://sisioh.org/new-page.html
+http://sisioh.org/pages.html
+http://sisioh.org/rss.xml
+http://sisioh.org/sitemap.txt
+http://sisioh.org/tags.html

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>The Sisioh Project</title>
- <link href="http://sisioh.github.io/" rel="self"/>
- <link href="http://sisioh.github.io"/>
- <updated>2013-07-06T23:48:52+09:00</updated>
- <id>http://sisioh.github.io</id>
+ <link href="http://sisioh.org/" rel="self"/>
+ <link href="http://sisioh.org"/>
+ <updated>2013-07-06T23:57:45+09:00</updated>
+ <id>http://sisioh.org</id>
  <author>
    <name>Junichi Kato</name>
    <email>j5ik2o@gmail.com</email>
